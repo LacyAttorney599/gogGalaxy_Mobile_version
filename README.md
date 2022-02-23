@@ -6,4 +6,6 @@ Project prototype link : https://www.figma.com/proto/9JIbBXxtjCiIebivyKQ9LR/maqu
 Link to project models : https://www.figma.com/file/9JIbBXxtjCiIebivyKQ9LR/maquette-gogGalaxy?node-id=0%3A1  :pencil2:
 
 Model Example: 
+
+
 <img width="428" alt="iPhone 13 Pro Max - 2(1)" src="https://user-images.githubusercontent.com/72307125/155374118-3bd27e60-7a2a-4bc9-9a73-c50c2f52b794.png">
